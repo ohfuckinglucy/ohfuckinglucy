@@ -1,4 +1,4 @@
-# Yo! I'm ohfuckinglucy  
+# Yo! I'm Tenebre  
 ![GitHub Metrics](https://gist.githubusercontent.com/ohfuckinglucy/8c312dd4cfd673e2af48be7e15b4b752/raw/readme.svg)
 
 - Student at **Siberian State University of Telecommunications and Informatics (SIBGUTI)**, Novosibirsk  
