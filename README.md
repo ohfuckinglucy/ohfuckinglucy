@@ -4,13 +4,14 @@
 - Student at **Siberian State University of Telecommunications and Informatics (SIBGUTI)**, Novosibirsk  
 - Passionate about **music**  
 - Actively **programming**  
-- Reach me on Telegram: [@ohfuckinglucy](https://t.me/ohfuckinglucy)
+- Reach me on Telegram: [@qwqwqwuuu](https://t.me/qwqwqwuuu)
 
 ---
 
 ### Achievements & Certifications
 - **Yadro Summer School "НА СВЯЗИ"** — 2024  
-- **Yadro Summer School "НА СВЯЗИ"** — 2025  
+- **Yadro Summer School "НА СВЯЗИ"** — 2025
+- **Yadro Summer School "НА СВЯЗИ"** — 2026
 - **Eltex** — Fundamentals of Network Technologies (Part 1)  
 - **Eltex** — Fundamentals of Network Technologies (Part 2)  
 - **Stepik** — Python with Sergey Balakirev  
